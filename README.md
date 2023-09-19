@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is João and i'm a Data Analyst
+Hello, my name is João, i'm a Data Analyst
 
 <details>
 <summary>My top languages</summary>
@@ -37,3 +37,4 @@ Hello, my name is João and i'm a Data Analyst
 - 📫 How to reach me rosseto.analytics@gmail.com / 61 99514-4100
 - 👯 I’m looking to collaborate on Data Projects
 
+             
