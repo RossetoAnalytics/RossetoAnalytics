@@ -1,7 +1,5 @@
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 ### Hi there 👋
-
-Hello, my name is João, i'm a Data Analyst
+My name is João, i'm a Data Analyst
 
 <details>
 <summary>My top languages</summary>
