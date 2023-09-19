@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**RossetoAnalytics/RossetoAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello, my name is João and i'm a Data Analyst
 
 <details>
