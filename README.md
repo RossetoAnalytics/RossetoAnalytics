@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is João, i'm a Data Analyst
+My name is João, i'm a Data Analyst.
 
 <details>
 <summary>My top languages</summary>
@@ -28,6 +28,16 @@ My name is João, i'm a Data Analyst
 | Hubspot   |
 | GTM       |
 | Zapier    |
+
+</details>
+
+<details>
+<summary>Languages i Speak</summary>
+
+| Proeficiency | Languages     |
+|--------------|---------------|
+| Advanced     | English       |
+| Native       | Portuguese(BR)|
 
 </details>
 
