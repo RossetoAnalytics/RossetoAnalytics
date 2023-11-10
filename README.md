@@ -41,7 +41,7 @@ My name is João, i'm a Data Analyst.
 
 </details>
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python for Advanced Data Analytics and Data Science
 - :earth_americas: I’m from Brasília/Brazil
 - 📫 How to reach me rosseto.analytics@gmail.com / 61 99514-4100
 - 👯 I’m looking to collaborate on Data Projects
