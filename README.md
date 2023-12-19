@@ -4,30 +4,23 @@ My name is João, i'm a Data Analyst.
 <details>
 <summary>My top languages</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python    |
-|     2| SQL       |
-|     3| DAX (PBI) |
+| Level  | Languages |
+|--------|-----------|
+|Advanced| Python    |
+|Advanced| SQL       |
+
 
 </details>
 
 <details>
-<summary>Tools i use</summary>
+<summary>DataViz tools</summary>
 
 | Tools     |
 |-----------|
 | Power BI  |
-| Looker    |
 | Tableau   |
-| Big Query |
-| DBT       |
-| Fivetran  |
-| Airflow   |
-| Excel     |
-| Hubspot   |
-| GTM       |
-| Zapier    |
+| Looker    |
+| QuickSight|
 
 </details>
 
