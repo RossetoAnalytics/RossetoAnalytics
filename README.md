@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is João, i'm a Data Analyst, currently working for @Zallpy in a BMW USA project.
+My name is João, i'm a Data Engineer with a Data Analysis background
 <details>
 <summary>My top languages</summary>
 
