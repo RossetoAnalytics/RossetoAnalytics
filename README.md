@@ -12,6 +12,7 @@ Competências:
 - Azure
 - Databricks
 - Delta Lake
+- Data Factory
 - Power BI
 - Tableau
 - Spark
