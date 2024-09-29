@@ -3,8 +3,8 @@ Meu nome é João, sou engenheiro de dados, com um background em Análise de dad
 
 Linguagens de programação:
 
-SQL    - Avançado
-Python - Avançado
+- SQL    - Avançado
+- Python - Avançado
 
 Competências:
 
