@@ -11,8 +11,9 @@ Competências:
 - ETL
 - Azure
 - Databricks
-- Delta Lake
-- Data Factory
+- Azure Delta Lake Storage (ADLS2)
+- AzureData Factory
+- Azure Synapse Analytics
 - Power BI
 - Tableau
 - Spark
