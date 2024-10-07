@@ -9,4 +9,4 @@ Idiomas:
 
 
 # [Clique aqui para ver todos meus projetos](https://github.com/RossetoAnalytics/Repository)
-- Repositório com índice e área dos meus projetos 
+- Repositório com índice, área e diagramas dos meus projetos 
