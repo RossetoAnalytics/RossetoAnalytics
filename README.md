@@ -1,5 +1,5 @@
 ### Hi there 👋
-Meu nome é João, sou engenheiro de dados, com um background em Análise de dados.
+Profissional em Dados com mais de 4 anos de experiência em análise e engenharia de dados financeiros. Fui responsável pela implementação de processos ETL e criação de relatórios integrando e transformando dados de diversas fontes, incluindo APIs, com Python e SQL.
 
 Linguagens de programação:
 
