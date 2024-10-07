@@ -1,26 +1,6 @@
 ### Hi there 👋
 Profissional em Dados com mais de 4 anos de experiência em análise e engenharia de dados financeiros. Fui responsável pela implementação de processos ETL e criação de relatórios integrando e transformando dados de diversas fontes, incluindo APIs, com Python e SQL.
 
-Linguagens de programação:
-
-- SQL    - Avançado
-- Python - Avançado
-
-Competências:
-
-- ETL
-- Azure
-- Databricks
-- Azure Delta Lake Storage (ADLS2)
-- AzureData Factory
-- Azure Synapse Analytics
-- Power BI
-- Tableau
-- Spark
-- Git
-- Estatística
-- Big Data
-
 Idiomas:
 -Portuguese:Native
 -English:Fluent
